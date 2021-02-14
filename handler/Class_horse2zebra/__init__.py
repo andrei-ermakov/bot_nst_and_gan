@@ -1,0 +1,1 @@
+from .class_horse2zebra import GAN_for_Transform
