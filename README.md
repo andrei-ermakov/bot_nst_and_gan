@@ -1,6 +1,6 @@
 # Bot for transfer style and transformation horse2zebra/zebra2horse
 
-Представлен код для запуска бота, умеющего переносить стиль одного фото на другое и превращать зебр в лошадей и наоборот
+Представлен код для запуска бота, умеющего переносить стиль одного фото на другое и превращать зебр в лошадей и наоборот.
 
 Реализация переноса стиля взята отсюда: https://nextjournal.com/gkoehler/pytorch-neural-style-transfer. Реализация GAN взята отсюда: https://github.com/arnab39/cycleGAN-PyTorch. Обучение GAN проводилось самостоятельно.
 
